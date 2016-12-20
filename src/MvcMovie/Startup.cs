@@ -15,6 +15,7 @@ using MvcMovie.Services;
 
 namespace MvcMovie
 {
+    //reference https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc
     public class Startup
     {
         public Startup(IHostingEnvironment env)
